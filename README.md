@@ -7,9 +7,9 @@
 
 💡 Skills.
 
-- I have node.js.
-- Postgres
-- Git skills.
+- Node.js.
+- Postgresql.
+- Git.
 - Problem Solving skills.
 
 📝 Currently Learning.
