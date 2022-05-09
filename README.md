@@ -5,7 +5,7 @@
 - 📚 I have a Diploma in Information Technology, specialising in Software Development.
 - 📫 How to reach me: mahlatsejustice6@gmail.com
 
-💡 Skills
+💡 Skills.
 
 - I have node.js.
 - Postgres
