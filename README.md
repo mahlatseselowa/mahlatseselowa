@@ -16,3 +16,4 @@
 
 - Angular.
 - Unit Testing.
+- Typescript.
