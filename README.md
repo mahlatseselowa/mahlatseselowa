@@ -15,5 +15,4 @@
 📝 Currently Learning.
 
 - Angular.
-- Unit Testing.
 - Typescript.
