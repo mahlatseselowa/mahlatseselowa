@@ -1,0 +1,333 @@
+1)    Identify a computer networked IT system to be tested in your organisation, and answer the following questions pertaining to it:
+a)    What is the purpose of the test that you will be conducting?
+⦁ Testing aims at detecting error-prone areas. 
+⦁ This helps in the prevention of errors in a system. 
+⦁ Testing also adds value to the product by conforming to the user requirements
+⦁ Testing enhances the integrity of a system by detecting deviations in design and errors in the system.
+In the Software industry, we are always in a dilemma of choosing between a faster release and a quality release but there is always a fine balance between them. We all expect speed as well as quality at the same time, which is quite a tougher one.
+
+System testing is something, which is done post Integration Testing, and before Acceptance Testing of any hardware or software available.
+System testing is performed to analyze the coordination of the adjoined components as one system so as to ensure if it is meeting the Quality Standards or not. The primary focus is to detect the defects within inter-assemblages by performing functional & non-functional tests on the integrated product.
+Non-functional tests are performed to ensure if the developing product will stand up to the business expectations or not. They are carried out to determine the response time of an application or to check on the compatibility or handling installation, performance, regression, scalability, security, and a few other areas.
+Hence, an application needs to clear both functional & non-functional levels to ensure that it is up to market standards else, it can spoil the company’s reputation.
+
+
+b)    What data will you obtain from the test?
+Test data is a crucial part of the application development process. By testing preliminary data before completing productivity and efficiency tests, designers can better identify coding errors. Understanding test data can help you determine if a product needs additional development or if it's ready to move on to further testing.
+
+•	To lessen the risk of poor software quality.
+•	Maximum capacity usage and performance
+•	Nonconformance comes at a cost.
+•	Securing the system
+•	To look for flaws in the program
+•	Quality of software
+•	The dependability of software
+•	Blank data: Blank data measures how a program will respond if researchers don't input any data. It also tests the type and frequency of errors and how the program responds to them.
+•	Valid test: A valid test measures how a system responds to valid data. It usually tests the primary purpose of the program.
+•	Invalid test: An invalid test measures unsupported files or commands. It tests how a program responds to invalid inputs, including the message that it supplies to the user.
+•	Boundary conditions: Boundary conditions test multiple combinations of different values and how they display.
+•	Huge test: A huge test measures if data is ready for additional types of testing, such as load and performance testing. It's usually the last step of the test data phase.
+
+
+c)    What factors are you aware of that could affect the test procedures that you will conduct?
+
+
+(1) Length of the test:
+A test usually represents a sample of many questions. If the test is too short to become a representative one, then validity will be affected accordingly. Homogeneous lengthening of a test increases both validity and reliability.
+(2) Reading vocabulary and sentence structures that are too difficult:
+The complicated vocabulary and sentence structure meant for the pupils taking the test may fail in measuring the aspects of pupil performance; thus lowering the validity.
+(3) Poorly constructed test items:
+The test items which provide unintentional clues to the answer will tend to measure the pupils’ alertness in detecting clues as well as the aspects of pupil performance which ultimately affect the validity.
+(4) Test items inappropriate for the outcomes being measured:
+Many times what happens is that we try to measure certain complex types of achievement, understanding, thinking, skills, etc. with test forms that are appropriate only for measuring factual knowledge. This affects the results and leads to a distortion of the validity.
+
+
+d)    What resources do you have available in order to conduct the test?
+Designing a network can be a challenging task. Your first step is to understand your networking requirements. The rest of this chapter explains how to determine these requirements. After you have identified these requirements, refer to Chapter 2 for information on selecting network capability and reliability options that meet these requirements.
+Networking devices must reflect the goals, characteristics, and policies of the organizations in which they operate. Two primary goals drive networking design and implementation:
+•	Application availability—Networks carry application information between computers. If the applications are not available to network users, the network is not doing its job.
+•	Cost of Ownership—Information system (IS) budgets today often run in the millions of dollars. As large organizations increasingly rely on electronic data for managing business activities, the associated costs of computing resources will continue to rise.
+A well-designed network can help balance these objectives. When properly implemented, the network infrastructure can optimize application availability and allow the cost-effective use of existing network resources.
+The Design Problem: Optimizing Availability and Cost
+In general, the network design problem consists of the following three general elements:
+•	Environmental givens—Environmental givens include the location of hosts, servers, terminals, and other end nodes; the projected traffic for the environment; and the projected costs for delivering different service levels.
+•	Performance constraints—Performance constraints consist of network reliability, traffic throughput, and host/client computer speeds (for example, network interface cards and hard drive access speeds).
+•	Networking variables—Networking variables include the network topology, line capacities, and packet-flow assignments.
+The goal is to minimize cost based on these elements while delivering service that does not compromise established availability requirements. You face two primary concerns: availability and cost. These issues are essentially at odds. Any increase in availability must generally be reflected as an increase in cost. As a result, you must weigh the relative importance of resource availability and overall cost carefully.
+
+
+e)    What compliance factors should you be aware of?
+Organizations must create a comprehensive information security policy to cover both challenges. An information security policy makes it possible to coordinate and enforce a security program and communicate security measures to third parties and external auditors.
+To be effective, an information security policy should: 
+•	Cover end-to-end security processes across the organization
+•	Be enforceable and practical
+•	Be regularly updated in response to business needs and evolving threats
+•	Be focused on the business goals of your organization
+ Information security objectives
+Guide your management team to agree on well-defined objectives for strategy and security. Information security focuses on three main objectives:
+•	Confidentiality — Only individuals with authorization can access data and information assets.
+•	Integrity — Data should be intact, accurate, and complete, and IT systems must be kept operational.
+•	Availability — Users should be able to access information or systems when needed.
+Authority and access control policy
+•	Hierarchical pattern — A senior manager may have the authority to decide what data can be shared and with whom. The security policy may have different terms for a senior manager vs. a junior employee. The policy should outline the level of authority over data and IT systems for each organizational role.
+•	Network security policy — Users are only able to access company networks and servers via unique logins that demand authentication, including passwords, biometrics, ID cards, or tokens. You should monitor all systems and record all login attempts.
+Data classification
+The policy should classify data into categories, which may include “top secret”, “secret”, “confidential”, and “public”. Your objective in classifying data is:
+•	To ensure that sensitive data cannot be accessed by individuals with lower clearance levels
+•	To protect highly important data, and avoid needless security measures for unimportant data
+Data support and operations
+•	Data protection regulations — systems that store personal data, or other sensitive data — must be protected according to organizational standards, best practices, industry compliance standards, and relevant regulations. Most security standards require, at a minimum, encryption, a firewall, and anti-malware protection.
+•	Data backup — Encrypt data backup according to industry best practices. Securely store backup media, or move the backup to secure cloud storage.
+•	Movement of data — Only transfer data via secure protocols. Encrypt any information copied to portable devices or transmitted across a public network.
+Security awareness and behavior
+Share IT security policies with your staff. Conduct training sessions to inform employees of your security procedures and mechanisms, including data protection measures, access protection measures, and sensitive data classification.
+•	Social engineering — Place a special emphasis on the dangers of social engineering attacks (such as phishing emails). Make employees responsible for noticing, preventing, and reporting such attacks.
+•	Clean desk policy — Secure laptops with a cable lock. Shred documents that are no longer needed. Keep printer areas clean so documents do not fall into the wrong hands.
+•	Acceptable Internet usage policy—define how the Internet should be restricted. Do you allow YouTube, social media websites, etc.? Block unwanted websites using a proxy.
+. Encryption policy
+Encryption involves encoding data to keep it inaccessible to or hidden from unauthorized parties. It helps protect data stored at rest and in transit between locations and ensures that sensitive, private, and proprietary data remains private. It can also improve the security of client-server communication. An encryption policy helps organizations define: 
+•	The devices and media the organization must encrypt
+•	When encryption is mandatory 
+
+
+2)    What are the objectives of system testing in your company?
+Objectives of System Testing
+The goal of system testing is to minimize the risks associated with the behavior of the system in a particular environment. For this, testers use the environment as close as possible to the one where a product will be installed after the release.
+The objectives are some smaller steps that allow for achieving the goal. In system testing, there are several milestones that make the release of a flawlessly functioning system (read: software without critical bugs on production) possible. So the primary objectives are: 
+•	Reducing risks, for bug-free components don’t always perform well as a system. 
+•	Preventing as many defects and critical bugs as possible by careful examination. 
+•	Verifying the conformance of design, features, and performance with the specifications stated in the product requirements.
+•	Validating the confidence in the system as a whole before moving to the final stage – acceptance testing that takes place right before users get access to a product.
+The Differences Between System and Integration Testing
+System testing follows integration testing. The latter checks how several units, the smallest functioning parts of code, work together. So, integration testing helps the team to prepare for system testing, since it inspects blocks of units that are later united into a finalized build.
+
+
+1)    Based on the test identified in Specific Outcome 1, select a testing team in your company and prepare a test plan.  Ensure that the following are included:
+ 
+a)    Description of the system to be tested
+Network testing
+Network Testing (or network performance testing), similar to Software Testing, is the process of analyzing and testing your network using a network performance test to identify bugs and performance issues, evaluate large network changes, and measure network performance.
+Even the most robust networks experience network problems. That’s why before and after every new service migration or deployment, every new application or network device, and honestly - just as a continuous practice, perform network testing using Network Monitoring to detect and troubleshoot problems as soon as they happen.
+Here’s how to set up network testing in just a few minutes!
+1. Use a Dedicated Network Testing Software 
+Network testing can be demanding for a network admin. Knowing how to test a network requires a substantial amount of resources and manual effort. But, network monitoring tools can help.
+Most traditional network monitoring solutions are passive, and only really monitor devices to notify you if they're up and running or not. But to actually test your network, you need to do better!
+An active network monitoring software, like Obkio, continuously tests network performance (aka network performance testing) by measuring end-to-end performance from the end-user perspective with key network metrics.
+
+
+b)    Test strategy to be followed
+Test Strategy
+Writing a Test Strategy effectively is a skill that every tester should achieve in their career. It initiates your thought process that helps to discover many missing requirements. Thinking and test planning activities help the team to define the Testing scope and Test coverage.
+It helps Test managers to get the clear state of the project at any point. The chances of missing any test activity are very low when there is a proper test strategy in place.
+Test execution without any plan rarely works. I know teams who write strategy document but never refer back while test execution. The Testing Strategy plan must be discussed with the whole team so that the team will be consistent with its approach and responsibilities.
+In tight deadlines, you can’t just waive any testing activity due to time pressure. It must atleast go through a formal process before doing so.
+What is a Test Strategy?
+Test strategy means “How you are going to test the application?” You need to mention the exact process/strategy that you are going to follow when you get the application for testing.
+I see many companies that follow the Test Strategy template very strictly. Even without a standard template, you can keep this Test Strategy document simple but still effective.
+Test Strategy Vs. Test Plan
+Over the years, I have seen a lot of confusion between these two documents. So let’s start with the basic definitions. Generally, it doesn’t matter which comes first. The test planning document is a combination of strategy plugged with an overall project plan. According to IEEE Standard 829-2008, the Strategy plan is a sub-item of a test plan.
+Every organization has its own standards and processes to maintain these documents. Some organizations include strategy details in the test plan itself (here is a good example of this). Some organizations list strategy as a subsection in a testing plan but details are separated out in different test strategy documents.
+Project scope and test focus are defined in the test plan. Basically, it deals with test coverage, features to be tested, features not to be tested, estimation, scheduling and resource management.
+Whereas the test strategy defines guidelines for test approach to be followed in order to achieve the test objectives and execution of test types defined in the testing plan. It deals with test objectives, approaches, test environments, automation strategies and tools, and risk analysis with a contingency plan.
+To summarize, the Test Plan is a vision of what you want to achieve and the Test Strategy is an action plan designed to achieve this vision!
+1.	Include product background in the test strategy document. Answer the first paragraph of your test strategy document – Why do stakeholders want to develop this project? This will help us understand and prioritize things quickly.
+2.	List all the important features you are going to test. If you think some features are not a part of this release then mention those features under “Features not to be tested” label.
+3.	Write down a test approach for your project. Clearly, mention what type of testing you are going to conduct?
+i.e., Functional testing, UI testing, Integration testing, Load/Stress testing, Security testing, etc.
+4.	Answer questions like how you are going to perform functional testing? Manual or automation testing? Are you going to execute all the test cases from your test management tool?
+5.	Which bug tracking tool are you going to use? What will be the process when you find a new bug?
+6.	What are your test entry and exit criteria?
+7.	How will you track your testing progress? What metrics are you going to use for tracking test completion?
+8.	Task distribution – Define the roles and responsibilities of each team member.
+9.	What documents will you produce during and after the testing phase?
+10.	What risks do you see in Test completion?
+
+
+c)    Test objectives
+The objectives of the testing are the reasons or purpose of the testing and the object of the testing is the work product to be tested.
+Testing objectives can differ depending on few factors as,
+•	The context of the component
+•	System being tested
+•	The test level
+•	The software development life cycle model
+Above distinctions may include, for example:
+•	Example 1: One goal of component testing may be to find as many failures as possible so that the underlying defects can be identified and fixed as soon as possible. Another goal could be to increase the code coverage of the component tests.
+•	Example 2: One goal of acceptance testing may be to confirm that the system works as expected and meets the requirements. Another goal of this testing could be to inform stakeholders about the risks of releasing the system at a specific time.
+Prevent defects: One of the objectives of software testing is to avoid mistakes throughout the development process. The cost and labor associated with error detection are considerably reduced when faults are detected early. It also saves time. Defect prevention entails conducting a root cause analysis of previously discovered flaws and then taking specific steps to prevent the recurrence of those types of faults in the future.
+Evaluate work products: The objectives are used to assess work items such as the requirement document, design, and user stories. Before the developer picks it up for development, it should be confirmed. Identifying any ambiguity or contradictory requirements at this stage saves a significant amount of development and testing time.
+
+
+d)    Test criteria
+UN Manual of Tests and Criteria
+Introduction
+ 					
+The Manual of Tests and Criteria contains criteria, test methods and procedures to be used for classification of dangerous goods according to the provisions of the "United Nations Recommendations on the Transport of Dangerous Goods, Model Regulations", as well as of chemicals presenting physical hazards according to the "Globally Harmonized System of Classification and Labelling of Chemicals" (GHS). It gives descriptions of the test methods and procedures considered to be the most useful for providing classifiers with the necessary information to arrive at a proper classification. It also supplements national or international regulations which are derived from the Model Regulations or the GHS.
+Originally developed by the Economic and Social Council’s Committee of Experts on the Transport of Dangerous Goods which adopted a first version in 1984, it has been regularly updated and amended every two years. Presently, the updating is done under the auspices of the Committee of Experts on the Transport of Dangerous Goods and on the Globally Harmonized System of Classification and Labelling of Chemicals, which replaces the original committee since 2001.
+The Manual is divided into five parts:
+ 	Part I:	Relating to explosives;
+ 	Part II:	Relating to self-reactive substances, organic peroxides and polymerizing substances;
+ 	Part III:	Relating to aerosols, desensitized explosives (relating to transport only), flammable liquids, flammable solids, pyrophoric liquids and solids, substances which in contact with water emit flammable gases, oxidizing liquids and solids, chemically unstable gases and gas mixtures, substances corrosive to metals, and substances and articles of transport Class 9 (ammonium nitrate fertilizers, lithium metal and lithium ion batteries) and solid ammonium nitrate based fertilizers;
+	Part IV:	Test methods concerning transport equipment; and
+	Part V:	Classification procedures, test methods and criteria relating to sectors other than transport.
+	 	 
+There are also appendices which give information common to a number of different types of tests, on the National Contacts for Test Details, on an example method for emergency relief vent sizing of portable tanks for organic peroxides and self-reactive substances, on screening procedures, on flash compositions tests for the classification of fireworks, response descriptors and the ballistic energy test for cartridges, small arms.
+
+
+e)    Resources including test team
+Nowadays, the business world is expanding at a rapid pace. Software teams have to cater to different clients and concurrently balance business requirements in several projects. This is why project managers, especially QA project managers have to take care of various complexities, timelines, and capacity requirements and deliver projects while fulfilling all essential demands.
+Most project teams are overloaded with work and QA managers have to work in a hectic environment to complete things on time. Although simultaneous software development and testing can benefit companies, reduce risk, and ensure cost-effective production, the sheer amount of coordination needed puts additional challenges for project managers.
+Managing a single project and managing multiple QA projects are two vastly different things. Multiple projects are extremely difficult to manage and demand tremendous temperament and experience from QA teams and managers.
+Unless you develop plans for implementation, ensure seamless communication, manage risk, and be tenacious and extensive in your approach, the chances of falling short are very real. This is why QA project managers need reliable testing teams to take some stress off them.
+However, if you want to create a capable testing team, you must outline software testing team structure, assign software testing team responsibilities, and define software testing team goals. In this article, we will explain how to build the best software testing team and multiple QA projects easily.
+To create the best project testing team, it’s important to develop a comprehensive human resource plan. This means QA project managers must identify current and future human resource needs for their company.
+Human resource planning ensures that your team doesn’t have shortage of staff or redundancy of roles. Therefore, it has a key role in helping managers find the best fit for their project testing team. You can divide the process into the following three stages:
+
+
+f)     Test environment
+Once software tests are designed, they need an interface to be executed in. This interface is called the Test Environment. It is created by integrating hardware, software, proper network configurations, and data necessary to run tests. Essentially, the test environment has to replicate the production environment (AKA the actual device and browser the software will be run on).
+The test environment (sometimes referred to as a test bed) must be configured according to the needs of the software being tested. No matter the testing project, the test environment must be set up accurately to ensure that the software operates in the right conditions, thus leading to the emergence of flaws that will occur in the real world.
+Test Environment vs Test Bed: Difference
+A test bed refers to a test environment that has been set up with test data. Certain test cases may require the environment to be prepared as per a particular set of data.
+For example, let’s consider that a software feature is meant to retrieve payment information from a database. To test this function, a database has to be created (obviously on a smaller scale), thus giving the software something to retrieve data from.
+In this case, the test environment is set up with the requisite database before tests are run. Thus, it becomes a test bed.
+Importance of the Test Environment
+One cannot release completely untested software to the public, even for beta testing purposes. Unit, integration, performance, and load testing must be conducted, at the very least – though usually, the testing is far more extensive than that.
+These tests must be conducted in an environment that mimics real user conditions as closely as possible. Test environments do precisely that and let QAs identify errors, incompatibilities, and other issues.
+Try Testing on Real Device Cloud for Free
+Once bugs have been detected, testers and devs can modify data without affecting any real users or their experience. For example, let’s say a banking app upgrade is being tested. It wouldn’t exactly be the best practice to move around real money in real customer accounts to test its efficacy. However, with a test environment, QAs can perform all the actions they want, play with the app, and test the most rudimentary feature without worrying about real-world consequences.
+When it comes to apps, an important feature to test is its compatibility with multiple devices and operating systems. In terms of websites, it must be compatible with numerous devices and browsers (both desktop and mobile).
+Now, given the enormous number of devices, Android, and iOS versions and browsers in existence, a test environment must ensure compatibility with multiple device-browser-OS combinations.
+In such cases, it is usually best to use real devices as the test environment. This is primarily because emulators and simulators do not offer all real device and browser features that software will have to work with. For example, an emulator does not allow testers to replicate low battery conditions or a weak network signal. Hence, there is no way to test an app in such non-optimal conditions. However, the app must perform well especially in such situations to provide high standards of user experience.
+Remember that emulators and simulators cannot provide real-world conditions for comprehensive software tests. Without real devices, it is not possible to monitor how a website or app fares in line with geolocation testing, short battery life, incoming calls, and multiple other features.
+g)    Schedule
+A test plan should help you build a quality product, and it should fit your project or company’s needs. You may work at a big company that follows or require industry standards, or you work on a startup with no testing process and need the essentials for guaranteeing product quality.
+Let’s imagine a simple example; you are investing in building a website for an online store. You documented the requirements and use cases, had a design team design the website screens, and hired developers to develop the website. You made a significant investment to build your application and stock up on products to sell, so the launch must go smoothly. What additional steps would you take to guarantee a smooth launch?
+Even if you inexperienced in testing, some of the steps you may think of are probably similar to the following:
+•	When does the site need to be ready and tested? (Testing schedule)
+•	What do I need to test? (Scope of testing)
+•	Who will test the website? (Testing resources)
+•	What functionalities are critical, and what are my standards for launching? (Acceptance criteria)
+•	How will you test the website before going live? (Test environment)
+
+
+h)    Test scenarios and test data to be used, including expected outcomes
+The test plan should include a clear scope of work so that everyone is aware of what is being tested. The work scope should consist of what will be tested and what features are out of scope for each test phase.
+As an example, let’s imagine a test a purchase journey scenario. A customer visiting your website should be able to browse a catalog of items, add items to a shopping cart, checkout, review the shopping cart, and pay for the purchase.
+Depending on your project phase, you may not have an entire product catalog set up yet; you may be using fictitious products with dummy images and product descriptions. For dummy product images and descriptions, you don’t want testers raising defects. You should state that product images and descriptions are out of scope.
+On the other hand, you may be working on a future feature to add to your website after the launch. The testing scope should indicate out-of-scope features that are not ready for testing at this phase.
+
+
+
+1) In your team, conduct the test as planned in Specific Outcome 2.  Document the following:
+
+a) Actions taken to prepare for the test
+Before we can get down to the nitty gritty of designing a test plan, it’s useful to understand the four basic test types. These types are White Box, Black Box, Manual and Automated, or unsupervised, testing. Each test type comes with a distinct set of benefits and constraints. Knowing how and when to use each is useful when designing an effective test plan.
+White Box Tests
+Back Box Tests
+Manual Tests
+Automated Tests
+White box tests run against the source files directly. During a white box test all the lines of code being tested are available for inspection and measurement. Typically, white box testing allows the developer or test engineer to resolve failing tests by using line by line step through, debugging techniques to inspect the value of variables and system state overall.
+Black box testing, also known as functional testing, works through only the public interfaces of an application or service. Black box tests have no access to the internals of the artifact under test. Black box tests verify only what an application, service or system does, not how it does it. Thus, testers and test engineer conduct tests by entering input and analyzing the resulting output. Also, in the case in which input has no direct output, a black box test will assess some aspect of the system overall.
+Manual tests are performed by humans. Humans execute actions using a predefined script. Usually test results are recorded automatically and stored in a log or database. In some cases, test results will be documented manually. Manual testing is appropriate in situations where the artifact under test has a variety of conditional test points that are hard to identify or predict. For example, testing that a web page supports a complex business process. Any action in the UI can result in one of a variety of execution paths.
+Humans who understand the complexity of a business process are usually better at testing the process using manual techniques than a test engineer trying to create code to do the testing.
+Automated testing scripted intelligence that is run either by human invocation or as part of Continuous Integration/Continuous Delivery framework such as Jenkins or Travis CI.
+Automated tests are created in two ways. The first way is to create scripts using recording technology that keeps track of a tester’s interaction with an application’s graphical user interface (GUI). The tester turns on the recorder and then navigates through the GUI performing actions such as data entry as well as clicking links and buttons. The tester turns off the recorder when finished. The recorder produces a test script that can be used by an automated test runner.
+The second way is to have a test engineer write the script code directly. The script is used subsequently by a human tester or by a testing framework that invokes the script automatically as part of the Continuous Integration/Continuous Delivery (CI/CD) process.
+
+
+b) The test procedures followed
+The purpose of creating a test plan is to have a documented way to execute consistent, measurable testing on an enterprise-wide basis. A well-designed test plan will address the following concerns:
+•	What is to be tested?
+•	When is testing to be conducted?
+•	Who or what will do the testing?
+•	How will test results be stored?
+•	How are test results to be evaluated as successful?
+•	How will test results be reported?
+•	How will tests be maintained and enhanced?
+What is to be tested?
+As described in Table 1 above, the items under test will vary with each phase of the Software Development Deployment Process. Each phase will have it’s own scope of testing. For example, in the Development Phase of the SDDP, developers will create and execute unit tests against source code. In the General QA phase, testers and test engineers will test UI of an application, as well as service and API endpoints.
+In addition to describing the items to test at each phase in the SDDP, a good test plan will define the standard for adequate testing. For example, in terms of unit testing, a test plan might require that all public functions of a component to be tested and that all the functions tested must pass.
+Also, it’s typical that a test plan will define the code coverage requirement that unit tests must satisfy. Some shops demand 100% code coverage while other are less strict. Having a well-defined itemization of what is to be tested and a documented standard by which to determine adequate, successful testing is a critical part of the test plan, particularly when it comes time to report on the results of testing activity.
+
+
+c) Any problems identified and recommended action
+Software Testing has a lot of challenges both in Manual as well as Automation.
+Generally, in the Manual Testing scenario, developers go through the build to the test team assuming that the responsible test team or tester will pick the build and come to enquire what the build is about? This is the case in organizations that are not following so-called ‘Processes’.
+So here we go with the Top Challenges!
+#1) Testing the Complete Application
+#2) Misunderstanding of Company Processes
+#3) Relationship with Developers
+Is that possible? That’s indeed impossible. There are millions of test combinations.
+It is not possible to test each and every combination in both Manual as well as Automation Testing. If you try all these combinations, you will never ship the product  
+Sometimes you just don’t pay proper attention to what the company-defined processes are and for what purposes they are.
+There are some myths in testers that they should only go with the company processes even if these processes are not applicable for their current testing scenario. This results in incomplete and inappropriate Application Testing.
+It’s indeed a big challenge. It requires a very skilled tester to handle this relationship positively and even by completing the work in a tester’s way.
+There are simply hundreds of excuses that developers or testers can make when they do not agree with some points. For this, the tester also requires Good Communication, Troubleshooting, and analyzing skills.
+#4) Regression Testing
+#5) Lack of Skilled Testers
+If a project continues to expand, then regression testing work simply becomes uncontrolled. There will be pressure to handle current functionality changes, previous working functionality checks, and bug tracking.
+This could be called a “wrong management decision” while selecting or training testers for their project task at hand.
+These unskilled fellows may add more chaos than simplifying the testing work. This results in incomplete, insufficient, and ad-hoc testing throughout the Testing Life Cycle.
+
+1) Record the outcomes of the test conducted and draft a report.  The report should include:
+a) What was tested and how it was tested.
+Testing Angular components
+Independent testing is testing carried out by someone other than the creator (developer) of the code being tested. By remaining independent it is possible to improve the effectiveness of testing if implemented correctly.
+As humans we are all capable of making mistakes, from the simplest misspelling or wrong use of syntax to fundamental errors at the core of any documents we write. The problem is that as authors we are less able to see our own errors than someone else, who is less directly associated with the document, would be. This is a problem that is made worse, in the world of software development, by the differing ‘world view‘of testers and developers. A developer, as the creator and ...
+b) The results of the test conducted.
+Components are one of the basic concepts of Angular applications. Thus, if you want to make sure your app is as high quality as it can possibly be, you’ve got to give those basic building blocks some love. When it comes to software quality, testing is caring, so let’s see how to perform Angular unit testing to ensure your components work perfectly.
+In this post, we’ll provide you with an introductory guide to Angular component testing. We’ll discuss the importance of testing and the tools used and provide examples on how to approach testing your components.
+What Is Angular Component Testing?
+Angular component testing means to check the quality and performance of your components. Angular component testing can be done manually by running the application yourself and checking to see if a component’s behavior is working as expected. But as web applications get larger and more complex, manually testing your components, consequently, becomes more time-consuming. In reality, this isn’t practical, so ultimately, we’ll need to find a better solution for Angular component testing.
+Luckily for us, an Angular project created using the Angular CLI comes with Karma and Jasmine to make testing simple by automating the process. Jasmine is a behavior development testing framework. Unit tests are written using Jasmine and are run to see if individual parts of an application are working correctly. As a result, unit tests will either pass or fail depending on if the code is working correctly or has a bug. Angular uses Karma as the test runner for the project’s unit tests.
+Angular Unit Testing: Understanding the What and Why
+Defining Unit Tests
+In the previous section, I’ve briefly mentioned the concept of unit testing. Before I go on to show you how to start with Angular testing in practice, let’s take a step back to gain a more solid understanding of unit testing itself.
+As you’ve seen, unit tests are tests you write to check whether very small parts of the app are behaving as expected. These small parts are called units, hence the name “unit testing.” In unit testing, you verify that the units work correctly, in a way that’s independent both from other units and from external concerns.
+
+
+c) An analysis of the results as documented based on the documented test scenarios.
+•	A log file is a type of data that is commonly used in network event recording systems.
+Event and message logs are two types of logs that can be used.
+•	The event log saves user traces, event status, and, if necessary, diagnosis failures. When a service is started, a log file is created.
+•	Because of customer privacy concerns, service providers often encrypt message records such as Internet Relay Chat (IRC), Instant Messaging (IM), and so on.
+For data collecting, event logs are frequently employed.
+•	They are operating system logs, Web logs, and equipment logs, according to the sources of logs.
+•	A mechanism for data gathering that uses log detection is also available.
+•	Unlike other data collection methods, log files are generally stored in long-term storage. The log files, on the other hand, typically consume a lot of memory, have a low information density, and use complicated file formats.
+d) Any problems identified, and action taken to address these.
+•	A data gathering system's security requires that no assaults be launched against it.
+•	The collected data can only be used in an allowed manner by a legal party.
+Alarms should be triggered if this does not happen.
+•	It assures the collection system's stability so that its data collectors may complete their tasks without being exposed to security risks.
+•	A good data collection system should be adaptable to different networking situations.
+It's tough to collect accurate data in a variety of situations if you don't have a good system in place.
+•	When it comes to gathered data, information security becomes critical.
+Self-learning and self-adjusting skills are supposed to ensure predicted collection performance in a variety of network conditions.
+
+2) How does recording ensure that the data is sufficient to meet the purpose of the test in the company?
+•	These criteria will be used to establish a consistent metric for evaluating different data collection systems.
+•	Efficacy of the system in real time (IN) Collection instantaneity is a vital factor that must be ensured for practically all data collection systems.
+•	In principle, the mechanism should operate admirably in such a setting.
+•	An inefficient method, however, is fatal for data collecting in a High-Speed (HS) and high-load network.
+•	It could lead to intolerable information loss, which impacts the accuracy of
+sequential data analysis and processing
+•	Effective and precise data gathering reduces data volume and optimizes data for future analysis on a large-scale and high-speed network.
+•	Otherwise, false-positive data could derail the data gathering process, necessitating the use of prior expert knowledge.
+•	On the other hand, false-negative data may be disregarded, compromising information integrity.
+
+3) What tools and information systems exist in your company to assist with planning and execution of tests, and capturing of results?
+•	Packets are commonly used in daily network administration procedures for fault correction, configuration control, performance management, security monitoring, and billing recording.
+Normally, monitored data in packets has the following contents:
+Information that is static, such as hardware and software parameters, users and administrators, registration information, and so on.
+•	The TCP/IP protocol's network packet transports a large amount of data.
+•	CPU and memory usage, interface traffic, and other dynamic data.
+•	Information about network performance, such as packet loss, latency, and bandwidth usage.
+•	Active packet probe is an active data collection mechanism for packet capturing.
+•	It injects test traffic into normal network traffic for network quality measurement
+•	The network's response can then be used to judge and evaluate its quality.
+•	 It is a kind of convenient and controllable approach.
+•	Simple Network Management Protocol (SNMP) based methodology is typical
+active packet-based data collection mechanism.
+•	The management station delivers User Datagram Protocol (UDP) packets to an intrinsic port when a user wants to get data from a certain management agent.
+
