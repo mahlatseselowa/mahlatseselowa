@@ -1,0 +1,253 @@
+Question 1
+1)    Identify the type of business your current company is, and what are the advantages and disadvantages thereof. 
+
+
+The Digital Academy is a Corporation business (Private Corporation).
+
+Website: https://www.thedigitalacademy.co.za
+
+Industry: IT Service and IT Consulting
+
+Company Size: 51-200 Employees
+
+Headquarters: Johannesburg, Gauteng
+
+Type: Privately Held
+
+Founded: 2015
+
+
+Advantages of working at The Digital Academy.
+
+Unlimited options
+
+There are numerous options in the IT industry if you wish to be a part of it. Multiple job posts like Computer programmer, software developers, UI designers, Quality assurance tester, etc., are your options. Moreover, each option provides an opportunity for a salary hike, promotions, and better career growth.
+
+
+
+Earning potential
+
+Interestingly, the high demand for technology has created a high value for the IT industry. Therefore, there is a good demand for IT professionals, which helps the IT experts to earn well. The entry-level jobs pay well, and with every experience, you are entitled to receive a better amount of salary.
+
+
+
+Remote work potential
+
+Remote work gained wide acceptance, especially during the COVID-19 pandemic, and it has become the new normal. Although some employees favor working from the office, many employees find it more productive and convenient to work remotely. As an IT professional, there is no obligation to work from the office as you generally need to work on your computer system, which you can operate remotely.
+
+
+
+Career flexibility
+
+Career flexibility is one of the essential perks in the IT industry. This is because the skills you gain in this industry enable you to perform well in other sectors. For example, skills like creativity, problem-solving, time management, and so on help you enrich your career in different industries. Therefore, if you ever feel monotonous with your job in the IT industry and wish to explore other industries, the IT jobs help you gain career flexibility too!
+
+
+Disadvantages of working at The Digital Academy.
+
+
+Remote work potential
+
+It is a disadvantage because say for instances there's a national shutdown, taxi strike or anything like that, I would still be expected to work because I am at home. 
+
+Remote work gained wide acceptance, especially during the COVID-19 pandemic, and it has become the new normal. Although some employees favor working from the office, many employees find it more productive and convenient to work remotely. As an IT professional, there is no obligation to work from the office as you generally need to work on your computer system, which you can operate remotely.
+
+
+2)    Explain which common objective your company operates with. Provide reasons for your answer. 
+
+
+The objective of the company is to recruit motivated young people with a raw talent for web and software development where they learn practical, hands-on development skills that are needed in the real world.
+
+Creating innovative digital products in Africa, creating opportunities for youth through incentive-based learning with strategic corporate partners who share a common goal.
+
+
+3)    Describe the type of business environment that your company operates in. 
+
+
+Technological environment which is the systematic application of scientific or other organised knowledge to practical tasks.
+
+Practical learning environment because it recruits motivated young people with a raw talent for web and software development where they learn practical, hands-on development skills that are needed in the real world.
+
+
+
+Question 3
+1)    In groups, research the importance of computer applications and how they have impacted business processes since 1990. 
+
+
+Helps in creating and processing letters, reports, spreadsheets, presentations, and other documents.
+
+ Computers offer an effective tool for organising and managing customer records and contacts. For a small business, a single computer, with a few software programs, provides sufficient computing power.
+
+Companies that have two or more computers, or a computer network, enable staff to share files or make changes to records.
+
+Firms with numerous employees, and large volumes of transactions, require faster computers that are more powerful and a wide range of software.
+
+
+How it has impacted the business world from the 1990s to the 20​tth century.​
+
+
+All businesses now rely heavily on computer networks and technology to operate. It is no understatement to say that without computers, most companies would simply not be able to function.
+
+That is an even more startling fact when you think about life before technology evolved. Looking back even 10 years, things like social media marketing for business were not as sophisticated as now. When you add in advances in other areas like virtual servers, next-gen telecommunications, and the way in which consumers use computers to engage with business, it is clear to see the effect that computers have had.
+
+ 
+
+ 
+
+Since the internet came onto the scene and computers became essential for business use, the technology involved has had a massive impact. Here are some of the ways in which technology has had an effect.
+
+ 
+
+ 
+
+Improved communication – the lifeblood of all businesses is communicating effectively with staff and consumers. Computers changed not only how this was done but also made it much more effective. Advances like email and instant chat and video calls made it faster to pass on information within an organisation. Computers also allow for better communication with customers through channels like company websites. As with staff communication, computers allow you to pass vital information onto customers in an efficient, concise way.
+
+Mobile working – computing has also changed the way that a lot of people work. Before computers, staff had to be physically on site to complete their roles. That meant that remote working was not feasible and having staff out in the field was difficult. Computers changed that by making it easy for people to stay in touch and to work from anywhere. Cloud computing is a great example of that. This computerised solution to working allows staff to access their office from anywhere and to collaborate with others, even if they are not in the same room.
+
+Data storage – before computers made their mark in business, all companies had to keep paper files and store important documents physically. This was naturally a waste of resources and also took up valuable space on premises. It also saw paper files go missing and be hard to find. Computers took data storage digital and made it simple to store and find any documents needed by searching from your PC.
+
+Digital marketing – in the past, marketing was all about traditional methods like billboards or handing flyers out locally. Computers have changed the game here for good by allowing you to use them to market online. Also known as digital marketing, it is much more effective at reaching people globally and is also more cost effective. Popular examples of this include social media marketing which facilitates engaging with consumers on popular platforms like Instagram to build a brand.
+
+E-commerce – a big change within the business that computers have driven is how consumers shop. That is not only by using computers to look for and research businesses to use but also using them to buy goods. Known as e-commerce, this is a huge sector and was worth around $3 trillion globally in 2017. It has grown simply because of the convenience and choice it gives to shoppers when looking for goods or services. Computers play the central role in this and e-commerce would not, of course, be possible without them.
+
+
+2)    Which computer applications are best suited for your work and why? 
+
+Business Intelligence – Uses computers for the accumulation of data about customers and clients for analysis. It entails developing a database to record, manage, retrieve, or manipulate information.
+Inventory management – Computers are used for inventory control and management. This includes the functions of manufacturing, warehousing, sales, orders and delivery. Computerised activities include recording incoming goods, details on items and storage information.
+
+
+3)    In groups, discuss which newer inventions you would propose for your company in terms of computer applications. 
+
+
+Artificial Intelligence. Artificial intelligence (AI) is the technology used for equipping computer systems with the ability to make decisions like humans.
+
+Data Science
+
+Internet of Things
+
+Blockchain
+
+Robotic Process Automation (RPA)
+
+Virtual Reality
+
+Edge Computing
+
+Intelligent apps
+
+Self-Publishing. Self-publishing is the publication of any book or other media by the author of the work, without the involvement of an established third-party publisher. The author is responsible for and in control of the entire process, including, in the case of a book, uploading to a self-publishing service the manuscript as a Word document or PDF, the design of the cover and interior, formats, price, distribution, marketing and public relations. The authors can do it all themselves or outsource all or part of the process to companies that offer these services. CreateSpace is Amazon's self-publishing branch that allows anyone to publish a book, place it for sale on Amazon, and have it printed on demand as books are ordered from Amazon.
+
+Data Mining. Data storage has become remarkably inexpensive and the ability to collect data through sensors and monitoring has increased dramatically, so vast amounts of data is being collected and stored. Data mining refers to computing techniques to find new information in a lot of data. For example, a grocery store might save data on sales with the primary goal (called "first use" of the data) that it can automate its inventory management.
+
+Search Trends. Trends of what people search for on the Internet are predictors of behaviour that can be used in fields such as business and politics. Search trend data can be used to track influenza-like illness in a population because the relative frequency of certain queries is highly correlated with the percentage of physician visits in which a patient presents with influenza-like symptoms, an estimate of weekly influenza activity can be reported.
+
+
+4)    Give practical examples of how IT has affected your company.
+
+
+Enterprise resource planning
+
+Enterprise Resource Planning or ERP consists of implementing a comprehensive administrative software system that merges or replaces single software applications. ERP software contains modules for each business function, such as purchasing, accounting, payroll, human resources, inventory management, and other aspects of an organisation. Many large business organisations have executed ERP strategies to gain from the assimilation of information and department functions under a single umbrella.
+
+Misconceptions
+
+Although companies receive many benefits from computers, a big misconception is that they are unreliable and unable to provide consistent results. Training employees to properly manage company software and back up essential information can limit these fears of computerised workplaces.
+
+Internet
+
+ Utilising the Internet is a great aspect of computers in the workplace. Not only can companies reach customers through websites, but they can also use company intranets to connect all company locations via computer software.
+ 
+ 
+ Question 4
+ 1) In groups, collect the company’s raw data in terms of any identified subsystem and convert it into meaningful information and present it to your manager. 
+
+2) In groups, do research of vulnerabilities within the company that can threaten data security and integrity. 
+
+
+Data integrity can be compromised in several ways:
+
+● Human errors when data is entered.
+
+● Errors that occur when data is transmitted from one computer to another.
+
+● Software bugs or viruses.
+
+● Hardware malfunctions, such as disk crashes.
+
+● Natural disasters, such as fires and floods.
+
+ 
+
+Threats to computer security:
+
+Errors and omissions are an important threat to data and system integrity. These errors are caused not only by data entry clerks processing hundreds of transactions per day but also by all types of users who create and edit data.
+
+Fraud and theft - Computer systems can be exploited for both fraud and theft both by "automating" traditional methods of fraud and by using new methods. For example, individuals may use a computer to skim small amounts of money from a large number of financial accounts, assuming that small discrepancies may not be investigated
+
+Employee sabotage - Employees are most familiar with their employer's computers and applications, including knowing what actions might cause the most damage, mischief, or sabotage. The downsizing of organisations in both the public and private sectors has created a group of individuals with organisational knowledge, who may retain potential system access (e.g., if system accounts are not deleted promptly).
+
+Loss of physical and infrastructure support - The loss of supporting infrastructure includes power failures (outages, spikes, and brownouts), loss of communications, water outages and leaks, sewer problems, lack of transportation services, fire, flood, civil unrest, and strikes.
+
+Malicious hackers - refers to those who break into computers without authorization. They can include both outsiders and insiders. Much of the rise of hacker activity is often attributed to increases in connectivity in both government and industry. One 1992 study of a particular Internet site (i.e., one computer system) found that hackers attempted to break in at least once every other day.
+
+Malicious code - Malicious code refers to viruses, worms, Trojan horses, logic bombs, and other "uninvited" software. Sometimes mistakenly associated only with personal computers, malicious code can attack other platforms. Actual costs attributed to the presence of malicious code have resulted primarily from system outages and staff time involved in repairing the systems. Nonetheless, these costs can be significant.
+
+
+3) In groups, discuss the POPI act and demonstrate how it protects information in your company. 
+
+
+The goal of the POPI Act is to protect data subjects from security breaches, theft, and discrimination. To accomplish this, it outlines eight principles that South African data processors must follow. 
+
+Each principle encourages responsibility, security, and consent.
+
+
+
+POPI issues its rules for using South African data in Chapter three. It refers to these rules as conditions, and they largely cover what data you collect, what you can do with the data, and how you protect both the data and the data subject.
+
+POPI includes eight conditions for lawful processing including:
+
+Accountability.
+
+Processing limitation.
+
+Purpose specification.
+
+Further processing limitation.
+
+Information quality.
+
+Openness.
+
+Security safeguards.
+
+Data subject participation.
+
+If you process data in South Africa, then you have an obligation to comply with POPI. But what does that mean in practical terms
+
+The principles of compliance mean you must:
+
+Obtain consent before collecting data (or processing, storing, or sharing it)
+
+Be sure to only collect data needed for legitimate purposes.
+
+Use the information in a way that matches the purpose of collection.
+
+Take reasonable security steps to protect the integrity of the information.
+
+Store the information only as long as required.
+
+Uphold data subjects' rights by providing access and corrections to information
+
+Create policies to notify the Regulator about your processing activities, such as a Privacy Policy.
+
+
+
+4) Identify one of your company’s subsystems and document the information needs associated with it. 
+
+An organisational subsystem is a group of employees who come together for a single work-related purpose that functions within the larger organisational system. There are many types of familiar organisational subsystems. These may include programs, projects, departments, teams and so on.
+
+There are many types of subsystems, going by different names. Two of the most common are departments and divisions. These are typically built into the organisational chart of the company. Retailers usually have departments for the different products they sell or the different regions where they operate.
+
+Manufacturers, on the other hand, have divisions representing the different facilities and production processes at their factories. Another common subsystem is a project or a work team, which is a group of people working on a project or activity in a specific area related to their work.
+
+There are also informal subsystems. These aren’t defined by the company’s organisational chart and aren’t always permanent. They could just be a short interaction between employees from different projects or departments that are trying to solve a common problem. Even social interactions can be considered subsystems if they directly affect the workflow of the organisation.
